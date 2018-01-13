@@ -2,9 +2,9 @@
 Hello World
 
 
-Class ID: *Pokemon*
+Class ID: Shelmet
 
-SRS ID: *CST???SRS00*
+SRS ID: CST126SRS000
 
 Unresolved Issues:  None. 
 
